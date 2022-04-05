@@ -23,7 +23,9 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias abaixo:
 </ul>
 
 ## Rode o projeto
-instale o yarn: https://yarnpkg.com/
+instale o yarn: https://yarnpkg.com/ (Opcional) pode ser feito com o npm.
+
+
 Copie o repositório para a pasta desejada com o seguinte comando:
 ### `git clone https://github.com/Thiago-kon/dtmoney`
 Instale as depedencias com:
